@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Tokenstate Documentation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Soporte",
+      "url": "mailto:support@tokenstate.app"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://tokenstate.app"
   },
   "tabs": [
     {
@@ -33,24 +33,24 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Sitio",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://tokenstate.app"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Comunidad",
+      "icon": "discord",
+      "url": "https://x.com/tokenstate"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://tokenstate.app/blog"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Comienza Ya",
       "pages": [
         "introduction",
         "quickstart",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Esenciales",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -84,9 +84,9 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/tokenstate",
+    "github": "https://github.com/tokenstate",
+    "linkedin": "https://www.linkedin.com/company/tokenstate"
   },
   "feedback": {
     "thumbsRating": true
