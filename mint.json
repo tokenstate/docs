@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Tokenstate Documentation",
+  "name": "Tokenstate Documentación",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Documentación",
+      "url": "/"
     }
   ],
   "anchors": [
@@ -38,9 +38,9 @@
       "url": "https://tokenstate.app"
     },
     {
-      "name": "Comunidad",
-      "icon": "discord",
-      "url": "https://x.com/tokenstate"
+      "name": "Youtube",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@tokenstate"
     },
     {
       "name": "Blog",
@@ -58,35 +58,33 @@
       ]
     },
     {
-      "group": "Esenciales",
+      "group": "Guía de Usuario",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/tokenization",
+        "essentials/wallets",
+        "essentials/tokens",
+        "essentials/blockchain",
+        "essentials/questions"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Términos y Condiciones",
       "pages": [
-        "api-reference/introduction"
+        "terms/terminos-y-condiciones"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Contenido",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "content/contenido-educativo"
       ]
     }
   ],
   "footerSocials": {
     "x": "https://x.com/tokenstate",
-    "github": "https://github.com/tokenstate",
-    "linkedin": "https://www.linkedin.com/company/tokenstate"
+    "instagram": "https://www.instagram.com/tokenstate",
+    "linkedin": "https://www.linkedin.com/company/tokenstate",
+    "youtube": "https://www.youtube.com/@tokenstate"
   },
   "feedback": {
     "thumbsRating": true
