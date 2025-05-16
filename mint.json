@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Tokenstate Documentación",
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "/logo/tokenstate_icon_black.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/logo/dark.svg",
+  "favicon": "/logo/inner_icon_aqua.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -22,8 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Ir al Dashboard",
-    "url": "https://dashboard.tokenstate.app"
+    "name": "Tokenstate",
+    "url": "https://tokenstate.app"
   },
   "tabs": [
     {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Guía de Usuario",
+      "group": "Espacio Informativo",
       "pages": [
         "essentials/tokenization",
         "essentials/wallets",
